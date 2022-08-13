@@ -32,7 +32,9 @@ npm run dev
 # A API
 
 Rotas
+
 Todas as vendas de carro
+
 /buys/
 [
   {
@@ -47,6 +49,7 @@ Todas as vendas de carro
     "datacompra": "2022-08-09T18:45:22.000Z",
     "valorcompra": 120000
   },
+  
   {
     "id": 2,
     "nome": "mercedes stronger beer",
@@ -63,7 +66,9 @@ Todas as vendas de carro
 
 
 Mostra venda por id
+
 /buys/2
+
 {
   "id": 2,
   "nome": "mercedes stronger beer",
