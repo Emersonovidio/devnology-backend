@@ -41,7 +41,6 @@ Todas as vendas de carro
 [
 
   {
-
     "id": 1,
     "nome": "volvo ultimate dark",
     "modelo": "suv",
@@ -52,12 +51,10 @@ Todas as vendas de carro
     "chassi": "GWGCLLDB",
     "datacompra": "2022-08-09T18:45:22.000Z",
     "valorcompra": 120000
-
   },
 
 
   {
-
     "id": 2,
     "nome": "mercedes stronger beer",
     "modelo": "suv",
@@ -68,7 +65,6 @@ Todas as vendas de carro
     "chassi": "GWGCLLDB",
     "datacompra": "2022-06-12T11:45:22.000Z",
     "valorcompra": 120000
-
   }
 
 ]
@@ -91,7 +87,7 @@ Mostra venda por id
   "chassi": "GWGCLLDB",
   "datacompra": "2022-06-12T11:45:22.000Z",
   "valorcompra": 120000
-  
+
 }
 
 
