@@ -1,9 +1,9 @@
 interface History {
     id?: number;
-    title: string;
+    car: string;
     price: number;
-    author: string,
-    isbn: string;
+    catacompra: string,
+    datavenda: string;
 }
 
 export default History;
