@@ -69,6 +69,8 @@ Todas as vendas de carro
 
 ]
 
+![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/postBuy.png)
+
 
 Mostra venda por id
 
@@ -92,9 +94,8 @@ Mostra venda por id
 
 
 
-
-
 ![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/postBuy.png)
+
 
 
 
