@@ -18,7 +18,7 @@ Caso queira criar mais funcionalidades fique a vontade e lembre de falar sobre e
 # Entregas & Decisões
 
 Para criação da API eu optei pelo Typescript (por familiaridade com projetos anteriores) e para persistir dados eu utilizei o banco Mysql, gerenciado através da ferramenta Dbeaver.
-sobre a arquitetura, eu escolhi o modelo MVC (Model-View-Controller) separando as camadas Model e Controller as deixando independentes.
+Sobre a arquitetura, eu escolhi o modelo MVC (Model-View-Controller) separando as camadas Model e Controller as deixando independentes.
 
 Confesso que tive dificuldade para implementar a busca de veículos disponiveis e vendidos. Talvez pela preocupação com o prazo e o tempo gasto com o frontend que eu não conhecia. 
 
@@ -89,6 +89,13 @@ Mostra venda por id
   "valorcompra": 120000
 
 }
+
+
+
+
+
+![alt text](PATH)
+
 
 
 
