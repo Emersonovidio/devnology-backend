@@ -94,7 +94,7 @@ Mostra venda por id
 
 
 
-![alt text](PATH)
+![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/postBuy.png)
 
 
 
