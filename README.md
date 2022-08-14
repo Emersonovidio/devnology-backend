@@ -69,7 +69,7 @@ Todas as vendas de carro
 
 ]
 
-![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/postBuy.png)
+![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/getallbuy.png)
 
 
 Mostra venda por id
@@ -94,7 +94,10 @@ Mostra venda por id
 
 
 
-![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/postBuy.png)
+![alt text](https://github.com/Emersonovidio/devnology-backend/blob/master/images/getbyIdbuys.png)
+
+
+
 
 
 
